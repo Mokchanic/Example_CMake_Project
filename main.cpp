@@ -13,5 +13,6 @@
 
 int32_t main(){
     std::cout << "Hello CMake Project!" << std::endl;
+    std::cout << "check_update" << std::endl;
     return 0;
 }
